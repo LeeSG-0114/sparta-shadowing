@@ -2,7 +2,6 @@ package com.sparta.shadowing.dto;
 
 import com.sparta.shadowing.entity.Product;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 
 @Getter
 public class ProductResponse {
